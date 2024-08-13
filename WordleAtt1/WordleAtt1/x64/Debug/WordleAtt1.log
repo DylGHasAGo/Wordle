@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\dylan\OneDrive\Documents\Coding\Wordle1\WordleAtt1\WordleAtt1\Main.cpp(227,23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\dylan\OneDrive\Documents\Coding\Wordle1\WordleAtt1\WordleAtt1\Main.cpp(227,17): warning C4244: 'initializing': conversion from 'time_t' to 'const int', possible loss of data
+C:\Users\dylan\OneDrive\Documents\Coding\Wordle1\WordleAtt1\WordleAtt1\Main.cpp(236,23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\dylan\OneDrive\Documents\Coding\Wordle1\WordleAtt1\WordleAtt1\Main.cpp(236,17): warning C4244: 'initializing': conversion from 'time_t' to 'const int', possible loss of data
+  WordleAtt1.vcxproj -> C:\Users\dylan\OneDrive\Documents\Coding\Wordle1\WordleAtt1\x64\Debug\WordleAtt1.exe
